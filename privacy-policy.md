@@ -15,7 +15,10 @@ it goes without saying, we can’t help you develop meaningful connections witho
 Information you give us
 
 You choose to give us certain information when using our services. This includes:
+
 When you complete your profile, you can share with us additional information, such as details on your personality, lifestyle, interests and other details about you, as well as content such as photos and videos. To add certain content, like pictures or videos, you may allow us to access your camera or photo album
+
 When you subscribe to a paid service or make a purchase directly from us (rather than through a platform such as iOS or Android), you pay us to banks listed in payment information.
+
 If you contact our customer care team, we collect the information you give us during the interaction. Sometimes, we monitor or record these interactions for training purposes and to ensure a high quality of service.
 
